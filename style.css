@@ -27,6 +27,24 @@ body{
     margin: 20px;
 }
 
+.refresh-btn {
+  background-color: #000;
+  color: #fff;
+  border: 2px solid #000;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-radius: 6px;
+}
+
+.refresh-btn:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+
 .dice{
     margin: 20px;
     
